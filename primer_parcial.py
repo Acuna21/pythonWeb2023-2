@@ -1,4 +1,4 @@
-"""PARCIAL --->
+"""PARCIAL: SARA ACUÑA BENAVIDES --->
 Dado un conjunto de puntos en un plano cartesiano, se te pide encontrar los dos puntos más cercanos entre sí. 
 Implementa una función llamada pares_cercanos que tome una lista de coordenadas (puntos en el plano) y devuelva las coordenadas de los dos puntos más cercanos junto con su distancia. 
 
